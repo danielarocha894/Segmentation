@@ -8,3 +8,4 @@ numpy
 seaborn
 sklearn
 StandardScaler
+sklearn.preprocessing
