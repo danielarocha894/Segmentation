@@ -6,3 +6,4 @@ altair
 protobuf
 numpy
 seaborn
+sklearn
